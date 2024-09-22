@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
