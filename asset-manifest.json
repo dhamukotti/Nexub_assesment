@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nexub_assesment/static/css/main.4e54a703.css",
+    "main.js": "/Nexub_assesment/static/js/main.3ac91fb3.js",
+    "static/js/453.420f6d02.chunk.js": "/Nexub_assesment/static/js/453.420f6d02.chunk.js",
+    "static/media/Capture.JPG": "/Nexub_assesment/static/media/Capture.9c37886922597badfc74.JPG",
+    "index.html": "/Nexub_assesment/index.html",
+    "main.4e54a703.css.map": "/Nexub_assesment/static/css/main.4e54a703.css.map",
+    "main.3ac91fb3.js.map": "/Nexub_assesment/static/js/main.3ac91fb3.js.map",
+    "453.420f6d02.chunk.js.map": "/Nexub_assesment/static/js/453.420f6d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e54a703.css",
+    "static/js/main.3ac91fb3.js"
+  ]
+}
